@@ -1,0 +1,16 @@
+---- 10-22 ----
+
+git merge feature-branch 
+# 작업한 브랜치를 기본 브랜치로 합치게되는 기능! 헉 
+
+git checkout main
+# 메인 브랜치로 이동하기 
+
+git merge --squash feature-branch
+# 작업한 브랜치를 스쿼시하여 병합
+
+git commit -m 'message'
+# 병합된 커밋을 생성하기 
+
+----------------
+추가
