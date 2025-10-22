@@ -12,5 +12,6 @@ git merge --squash feature-branch
 git commit -m 'message'
 # 병합된 커밋을 생성하기 
 
+깃 게임 1번 쫙 돌려보기 ***
+
 ----------------
-추가
